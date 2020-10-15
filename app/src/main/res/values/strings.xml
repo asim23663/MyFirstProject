@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+
+    <string name="str_email">Email</string>
+    <string name="str_sign_in">Sign in</string>
+    <string name="str_password">Enter Password</string>
+</resources>
