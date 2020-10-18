@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    Text Sizes-->
+    <dimen name="normal_text_size">18sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="big_text_size">32sp</dimen>
+
+<!--    Margin-->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+
+<!--    Padding-->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+
+</resources>

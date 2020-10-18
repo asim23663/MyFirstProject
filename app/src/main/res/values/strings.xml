@@ -1,7 +1,17 @@
 <resources>
     <string name="app_name">MyFirstProject</string>
 
+    <!--    Login Activity-->
     <string name="str_email">Email</string>
     <string name="str_sign_in">Sign in</string>
     <string name="str_password">Enter Password</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="phone_no">Enter Your Phone Number</string>
+    <string name="email">Enter your Email</string>
+    <string name="password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <!--    Register Activity-->
 </resources>
